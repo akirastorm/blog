@@ -52,4 +52,4 @@ getStream(req, res, filepath, statObj) {
 在搭建node静态服务器过程中学习利用Http1.1的`Range`来实现断点续传功能
 
 ###### 参考资料
-* [博文共赏：Node.js静态文件服务器实战](http://www.infoq.com/cn/news/2011/11/tyq-nodejs-static-file-server/)
+* [Node.js中实现HTTP 206内容分片](http://developer.51cto.com/art/201409/451095.htm)
